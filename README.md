@@ -1,7 +1,5 @@
 - Game Textual version: 
 
-https://github.com/SMaitriya/RPG-PROJECT
-
 
 The game starts by allowing the player to choose a name and select a class—Mage, Warrior, or Archer. Each class has unique characteristics and a special attack that consumes either energy, arrows, or mana.
 
